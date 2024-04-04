@@ -1,0 +1,9 @@
+Formato del documento:
+
+Nombre del artista //linea 1
+Pais de origen //linea 2
+Titulo de un album //linea 3
+A;o del album //linea 4
+Cantidad de canciones del album //linea 5 
+Titulos de las canciones
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tienda_de_Musica" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Tienda_de_Musica" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Tienda_de_Musica" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Librerias.h" />
+		<Unit filename="include/AdminTienda.h" />
+		<Unit filename="include/Album.h" />
+		<Unit filename="include/Artista.h" />
+		<Unit filename="include/Cancion.h" />
+		<Unit filename="include/Cliente.h" />
+		<Unit filename="include/Usuario.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/AdminTienda.cpp" />
+		<Unit filename="src/Album.cpp" />
+		<Unit filename="src/Artista.cpp" />
+		<Unit filename="src/Cancion.cpp" />
+		<Unit filename="src/Cliente.cpp" />
+		<Unit filename="src/Usuario.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

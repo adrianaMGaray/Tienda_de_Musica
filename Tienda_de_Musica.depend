@@ -1,0 +1,242 @@
+# depslib dependency file v1.0
+1712190922 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\main.cpp
+	"../Librerias.h"
+	"AdminTienda.h"
+	"Cliente.h"
+	"Usuario.h"
+	"Cancion.h"
+	"Artista.h"
+	"Album.h"
+	<iomanip>
+	<cctype>
+	<fstream>
+	<stdexcept>
+	<sstream>
+	<functional>
+
+1712169891 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\src\cancion.cpp
+	"Cancion.h"
+	"Artista.h"
+
+1712169617 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\include\cancion.h
+	"Librerias.h"
+
+1712069715 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\librerias.h
+	<iostream>
+	<string>
+	<vector>
+
+1712168861 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\src\usuario.cpp
+	"Usuario.h"
+
+1712168805 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\include\usuario.h
+	"Librerias.h"
+
+1712014187 source:c:\users\user\documents\tiendaa\src\artista.cpp
+	"Artista.h"
+	"Album.h"
+
+1712024390 c:\users\user\documents\tiendaa\include\artista.h
+	"Librerias.h"
+
+1712022276 c:\users\user\documents\tiendaa\include\librerias.h
+	<iostream>
+	<string>
+	<vector>
+
+1712024298 c:\users\user\documents\tiendaa\include\album.h
+	"Librerias.h"
+
+1712014216 source:c:\users\user\documents\tiendaa\src\album.cpp
+	"Album.h"
+	"Cancion.h"
+	"Artista.h"
+
+1712022574 c:\users\user\documents\tiendaa\include\cancion.h
+	"Librerias.h"
+
+1712189142 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\src\album.cpp
+	"Album.h"
+	"Cancion.h"
+	"Artista.h"
+
+1712189143 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\include\album.h
+	"Librerias.h"
+
+1712022276 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\include\librerias.h
+	<iostream>
+	<string>
+	<vector>
+
+1712168805 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\include\artista.h
+	"Librerias.h"
+
+1712170167 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\src\artista.cpp
+	"Artista.h"
+	"Album.h"
+
+1712182693 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\src\cliente.cpp
+	"Cliente.h"
+	"Artista.h"
+
+1712168805 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\include\cliente.h
+	"Librerias.h"
+	"Usuario.h"
+	"AdminTienda.h"
+	"Cancion.h"
+
+1712170691 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\include\admintienda.h
+	"Librerias.h"
+	"Usuario.h"
+
+1712170734 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica\src\admintienda.cpp
+	"AdminTienda.h"
+	"Artista.h"
+	"Cliente.h"
+
+1712206352 source:c:\users\admin\documents\aea\tienda_de_musica\main.cpp
+	"../Librerias.h"
+	"AdminTienda.h"
+	"Cliente.h"
+	"Usuario.h"
+	"Cancion.h"
+	"Artista.h"
+	"Album.h"
+	<conio.h>
+	<iomanip>
+	<cctype>
+	<fstream>
+	<stdexcept>
+	<sstream>
+	<functional>
+
+1712069715 c:\users\admin\documents\aea\tienda_de_musica\librerias.h
+	<iostream>
+	<string>
+	<vector>
+
+1712170691 c:\users\admin\documents\aea\tienda_de_musica\include\admintienda.h
+	"Librerias.h"
+	"Usuario.h"
+
+1712022276 c:\users\admin\documents\aea\tienda_de_musica\include\librerias.h
+	<iostream>
+	<string>
+	<vector>
+
+1712168805 c:\users\admin\documents\aea\tienda_de_musica\include\usuario.h
+	"Librerias.h"
+
+1712168805 c:\users\admin\documents\aea\tienda_de_musica\include\cliente.h
+	"Librerias.h"
+	"Usuario.h"
+	"AdminTienda.h"
+	"Cancion.h"
+
+1712169617 c:\users\admin\documents\aea\tienda_de_musica\include\cancion.h
+	"Librerias.h"
+
+1712168805 c:\users\admin\documents\aea\tienda_de_musica\include\artista.h
+	"Librerias.h"
+
+1712189143 c:\users\admin\documents\aea\tienda_de_musica\include\album.h
+	"Librerias.h"
+
+1712170734 source:c:\users\admin\documents\aea\tienda_de_musica\src\admintienda.cpp
+	"AdminTienda.h"
+	"Artista.h"
+	"Cliente.h"
+
+1712189142 source:c:\users\admin\documents\aea\tienda_de_musica\src\album.cpp
+	"Album.h"
+	"Cancion.h"
+	"Artista.h"
+
+1712170167 source:c:\users\admin\documents\aea\tienda_de_musica\src\artista.cpp
+	"Artista.h"
+	"Album.h"
+
+1712169891 source:c:\users\admin\documents\aea\tienda_de_musica\src\cancion.cpp
+	"Cancion.h"
+	"Artista.h"
+
+1712206441 source:c:\users\admin\documents\aea\tienda_de_musica\src\cliente.cpp
+	"Cliente.h"
+	"Artista.h"
+
+1712168861 source:c:\users\admin\documents\aea\tienda_de_musica\src\usuario.cpp
+	"Usuario.h"
+
+1712170734 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\src\admintienda.cpp
+	"AdminTienda.h"
+	"Artista.h"
+	"Cliente.h"
+
+1712170691 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\include\admintienda.h
+	"Librerias.h"
+	"Usuario.h"
+
+1712022276 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\include\librerias.h
+	<iostream>
+	<string>
+	<vector>
+
+1712168805 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\include\usuario.h
+	"Librerias.h"
+
+1712168805 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\include\artista.h
+	"Librerias.h"
+
+1712168805 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\include\cliente.h
+	"Librerias.h"
+	"Usuario.h"
+	"AdminTienda.h"
+	"Cancion.h"
+
+1712169617 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\include\cancion.h
+	"Librerias.h"
+
+1712189142 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\src\album.cpp
+	"Album.h"
+	"Cancion.h"
+	"Artista.h"
+
+1712189143 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\include\album.h
+	"Librerias.h"
+
+1712170167 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\src\artista.cpp
+	"Artista.h"
+	"Album.h"
+
+1712169891 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\src\cancion.cpp
+	"Cancion.h"
+	"Artista.h"
+
+1712206441 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\src\cliente.cpp
+	"Cliente.h"
+	"Artista.h"
+
+1712168861 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\src\usuario.cpp
+	"Usuario.h"
+
+1712200356 source:d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\main.cpp
+	"../Librerias.h"
+	"AdminTienda.h"
+	"Cliente.h"
+	"Usuario.h"
+	"Cancion.h"
+	"Artista.h"
+	"Album.h"
+	<conio.h>
+	<iomanip>
+	<cctype>
+	<fstream>
+	<stdexcept>
+	<sstream>
+	<functional>
+
+1712069715 d:\universidad\2do año\1er semestre\c c++\tienda_de_musica_arreglada\tienda_de_musica\librerias.h
+	<iostream>
+	<string>
+	<vector>
+
