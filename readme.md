@@ -1,4 +1,4 @@
-# Sistema Digital para Tienda de Música
+# PROYECTO UNIVERSITARIO: Sistema Digital para Tienda de Música
 
 ![Logo de la Universidad Central "Marta Abreu" de Las Villas](imgs-info/uclv-logo.png)
 
